@@ -1,52 +1,44 @@
-![Thumbnail GitHub](./thumb.png)
+# Testes de Integração em Flutter
 
-# Flutter: Gerenciamento de estados complexos
+Este é um prjeto criado durante um curso na plataforma Alura foca na escrita de testes de integração aplicados em projetos Flutter.
 
-Esse curso de Flutter vai te ensinar a: 
+## 🚀 Começando
 
--> O que é estado e gerenciadores de estados
+Essas intruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
--> Como instalar e utilizar o Provider como gerenciador de estados
+### 📋 Pré-requisitos
 
--> Formular estados seguindo o conceito de single source of truth
+De que coisas você precisa para instalar o software e como instalá-lo?
 
--> Como organizar models que utilizam os conceitos do `change notifier`
+* SDK do Flutter instalado em sua máquina [SDK Flutter](https://flutter.dev/?gad_source=1&gclid=EAIaIQobChMIpuCHuPivhAMVtURIAB2IJQNXEAAYASAAEgK3ofD_BwE&gclsrc=aw.ds). 
+* SDK do Dart instalado em sua máquina [SDK Dart](https://dart.dev/get-dart).
+* SDK do Android instalado em sua máquina, será necessário instalar a IDE Android Studio [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=EAIaIQobChMI0OO33vivhAMV2lhIAB1IHwbVEAAYASAAEgLGkPD_BwE&gclsrc=aw.ds&hl=pt-br).
+* As IDEs recomendadas são o Andorid Studio e o Visual Studio Code.
+* [Tutorial de instalação e configuração](https://blog.cod3r.com.br/dart-e-flutter-instalacao-e-configuracao/)
 
--> Criar Widgets focados em estado e passagem de dados
+### 🔧 Instalação
 
+* ⚠️ Para este projeto você precisa ter o Node.js instalado em seu computador.
+* Acesse a paleta de Comandos do Visual Studio Code.
+* No prompt da paleta de comandos, insira <b>gitcl</b>, selecione o comando Git: <b>Clone</b> e pressione <b>Enter</b>.
+* Quando for solicitada a URL do Repositório, selecione Clonar do GitHub e pressione <b>Enter</b>.
+* Se for solicitado que você entre no GitHub, conclua o processo de entrada.
+* Insira https://github.com/GABRIEL-ASSYS/Testes-de-Integra-o-Flutter no campo URL do Repositório.
+* Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
+* Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
+* Para rodar o projeto é necessário abrir o terminal de comando no Visual Studio e executar ``` flutter pub get ``` para instalar as bibliotecas e dependências do Flutter.
 
-## 🔨 Projeto: Client Control
+## 🛠️ Construído com  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+* [Dart](https://dart.dev/guides) - Linguagem utilizada
+* [Flutter](https://docs.flutter.dev) - Framework
 
-O projeto do curso consiste em um gerenciamento de clientes de maneira que podemos cadastrar clientes, tipos de clientes e vincular os tipos cadastrados com os clientes utilizando abordagens de gerenciamento de estados.
+## ✒️ Autores
 
-![](./screenshot.png)
+* Gabriel Assys <br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-assys/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabriel_brachak/)
+<br/>
+<img src="https://github.com/GABRIEL-ASSYS/Octocat/blob/main/octocat-1674837986440.png" width="150" height="150"/>
 
-## ✔️ Técnicas e tecnologias
-
-**Veja mais de perto o que você aprenderá sobre** :
-- `Provider`: Você aprenderá o que é o provider e o seu poder como gerenciador de estados.
-- `Consumer`: Leia dados da única fonte da verdade através do Widget Consumer. 
-- `Provider.of`: Entenda como acessar valores de estado fora da árvore de Widgets.
-- `ChangeNotifier`: Possibilita preparar uma model para trabalhar como única fonte da verdade.
-- `notifyListeners()`: Notifica as escutas de alterações no estado e notifica ao componente o novo estado.
-- `MultiProvider`: É responsável por prover um meio de gerenciar multiplos providers na árvore de Widgets do projeto.
-- `Redux`: Entenda os conceitos e princípios dos gerenciadores com base no Redux.
-- `BloC`: Veja como funciona a teoria dos gerenciadores que implementam o padrão BloC.
-
- 
-
-
-## 🛠️ Abrir e rodar o projeto
-
-**Para executar este projeto você precisa:**
-
-- Ter uma IDE, que pode ser o  [Android Studio](https://developer.android.com/) instalado na sua máquina
-- Ter a [SDK do Flutter](https://docs.flutter.dev/get-started/install) na versão 3.0.0
-
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]() que desenvolve o projeto desde o começo!
-
-Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
-
+---
+⌨️ com ❤️ por [Gabriel Assys](https://github.com/GABRIEL-ASSYS) 😊
