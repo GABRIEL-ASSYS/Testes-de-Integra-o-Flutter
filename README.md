@@ -1,6 +1,6 @@
 # Testes de Integração em Flutter
 
-Este é um prjeto criado durante um curso na plataforma Alura foca na escrita de testes de integração aplicados em projetos Flutter.
+Este é um prjeto criado durante um curso na plataforma Alura foco na escrita de testes de integração aplicados em projetos Flutter.
 
 ## 🚀 Começando
 
